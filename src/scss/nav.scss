@@ -1,0 +1,8 @@
+.nav-link {
+
+  &:hover,
+  &:active {
+    color: $danger !important;
+    border-bottom: 2px solid $danger;
+  }
+}
